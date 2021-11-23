@@ -1,0 +1,6 @@
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.pdb

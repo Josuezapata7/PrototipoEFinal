@@ -1,0 +1,6 @@
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.AssemblyReference.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.CoreCompileInputs.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.pdb

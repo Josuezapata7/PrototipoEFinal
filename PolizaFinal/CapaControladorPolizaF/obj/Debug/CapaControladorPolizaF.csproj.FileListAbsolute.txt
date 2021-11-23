@@ -1,0 +1,9 @@
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\bin\Debug\CapaControladorPolizaF.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\bin\Debug\CapaControladorPolizaF.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\obj\Debug\CapaControladorPolizaF.csproj.CoreCompileInputs.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\obj\Debug\CapaControladorPolizaF.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\obj\Debug\CapaControladorPolizaF.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\bin\Debug\CapaModeloPolizaF.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\bin\Debug\CapaModeloPolizaF.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\obj\Debug\CapaControladorPolizaF.csproj.AssemblyReference.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaControladorPolizaF\obj\Debug\CapaControladorPolizaF.csproj.CopyComplete

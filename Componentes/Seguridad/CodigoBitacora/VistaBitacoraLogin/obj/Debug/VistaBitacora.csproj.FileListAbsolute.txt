@@ -1,0 +1,10 @@
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Dapper.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.AssemblyReference.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CoreCompileInputs.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CopyComplete
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.pdb

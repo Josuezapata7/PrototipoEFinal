@@ -1,0 +1,9 @@
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb

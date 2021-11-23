@@ -1,0 +1,6 @@
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaModeloPolizaF\bin\Debug\CapaModeloPolizaF.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaModeloPolizaF\bin\Debug\CapaModeloPolizaF.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaModeloPolizaF\obj\Debug\CapaModeloPolizaF.csproj.AssemblyReference.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaModeloPolizaF\obj\Debug\CapaModeloPolizaF.csproj.CoreCompileInputs.cache
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaModeloPolizaF\obj\Debug\CapaModeloPolizaF.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaModeloPolizaF\obj\Debug\CapaModeloPolizaF.pdb
