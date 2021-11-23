@@ -29,9 +29,8 @@ namespace CapaVistaSeguridadHSC
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBitacora));
             this.pkIdDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.usuarioDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -46,15 +45,6 @@ namespace CapaVistaSeguridadHSC
             this.btnActualizarBitacora = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.verBitacora = new VistaBitacora.DGVBitacora();
-            this.pkIdDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.usuarioDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.hostDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ipDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.moduloDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.aplicacionDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.accionDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.conexionFechaDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.conexionHoraDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.verBitacora)).BeginInit();
             this.SuspendLayout();
             // 
@@ -158,101 +148,27 @@ namespace CapaVistaSeguridadHSC
             // 
             this.verBitacora.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.verBitacora.AutoGenerateColumns = false;
             this.verBitacora.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.verBitacora.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.DisplayedCells;
             this.verBitacora.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.verBitacora.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleVertical;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle5.Padding = new System.Windows.Forms.Padding(5);
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.verBitacora.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.Padding = new System.Windows.Forms.Padding(5);
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.verBitacora.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.verBitacora.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.verBitacora.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.pkIdDataGridViewTextBoxColumn1,
-            this.usuarioDataGridViewTextBoxColumn1,
-            this.hostDataGridViewTextBoxColumn1,
-            this.ipDataGridViewTextBoxColumn1,
-            this.moduloDataGridViewTextBoxColumn1,
-            this.aplicacionDataGridViewTextBoxColumn1,
-            this.accionDataGridViewTextBoxColumn1,
-            this.conexionFechaDataGridViewTextBoxColumn1,
-            this.conexionHoraDataGridViewTextBoxColumn1});
             this.verBitacora.Cursor = System.Windows.Forms.Cursors.Hand;
             this.verBitacora.Location = new System.Drawing.Point(27, 77);
             this.verBitacora.MultiSelect = false;
             this.verBitacora.Name = "verBitacora";
             this.verBitacora.ReadOnly = true;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle6.Padding = new System.Windows.Forms.Padding(3);
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.verBitacora.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.Padding = new System.Windows.Forms.Padding(3);
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.verBitacora.RowHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.verBitacora.RowHeadersVisible = false;
             this.verBitacora.Size = new System.Drawing.Size(1137, 465);
             this.verBitacora.TabIndex = 0;
-            // 
-            // pkIdDataGridViewTextBoxColumn1
-            // 
-            this.pkIdDataGridViewTextBoxColumn1.DataPropertyName = "pkId";
-            this.pkIdDataGridViewTextBoxColumn1.HeaderText = "pkId";
-            this.pkIdDataGridViewTextBoxColumn1.Name = "pkIdDataGridViewTextBoxColumn1";
-            this.pkIdDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // usuarioDataGridViewTextBoxColumn1
-            // 
-            this.usuarioDataGridViewTextBoxColumn1.DataPropertyName = "usuario";
-            this.usuarioDataGridViewTextBoxColumn1.HeaderText = "usuario";
-            this.usuarioDataGridViewTextBoxColumn1.Name = "usuarioDataGridViewTextBoxColumn1";
-            this.usuarioDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // hostDataGridViewTextBoxColumn1
-            // 
-            this.hostDataGridViewTextBoxColumn1.DataPropertyName = "host";
-            this.hostDataGridViewTextBoxColumn1.HeaderText = "host";
-            this.hostDataGridViewTextBoxColumn1.Name = "hostDataGridViewTextBoxColumn1";
-            this.hostDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // ipDataGridViewTextBoxColumn1
-            // 
-            this.ipDataGridViewTextBoxColumn1.DataPropertyName = "ip";
-            this.ipDataGridViewTextBoxColumn1.HeaderText = "ip";
-            this.ipDataGridViewTextBoxColumn1.Name = "ipDataGridViewTextBoxColumn1";
-            this.ipDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // moduloDataGridViewTextBoxColumn1
-            // 
-            this.moduloDataGridViewTextBoxColumn1.DataPropertyName = "modulo";
-            this.moduloDataGridViewTextBoxColumn1.HeaderText = "modulo";
-            this.moduloDataGridViewTextBoxColumn1.Name = "moduloDataGridViewTextBoxColumn1";
-            this.moduloDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // aplicacionDataGridViewTextBoxColumn1
-            // 
-            this.aplicacionDataGridViewTextBoxColumn1.DataPropertyName = "aplicacion";
-            this.aplicacionDataGridViewTextBoxColumn1.HeaderText = "aplicacion";
-            this.aplicacionDataGridViewTextBoxColumn1.Name = "aplicacionDataGridViewTextBoxColumn1";
-            this.aplicacionDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // accionDataGridViewTextBoxColumn1
-            // 
-            this.accionDataGridViewTextBoxColumn1.DataPropertyName = "accion";
-            this.accionDataGridViewTextBoxColumn1.HeaderText = "accion";
-            this.accionDataGridViewTextBoxColumn1.Name = "accionDataGridViewTextBoxColumn1";
-            this.accionDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // conexionFechaDataGridViewTextBoxColumn1
-            // 
-            this.conexionFechaDataGridViewTextBoxColumn1.DataPropertyName = "conexionFecha";
-            this.conexionFechaDataGridViewTextBoxColumn1.HeaderText = "conexionFecha";
-            this.conexionFechaDataGridViewTextBoxColumn1.Name = "conexionFechaDataGridViewTextBoxColumn1";
-            this.conexionFechaDataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // conexionHoraDataGridViewTextBoxColumn1
-            // 
-            this.conexionHoraDataGridViewTextBoxColumn1.DataPropertyName = "conexionHora";
-            this.conexionHoraDataGridViewTextBoxColumn1.HeaderText = "conexionHora";
-            this.conexionHoraDataGridViewTextBoxColumn1.Name = "conexionHoraDataGridViewTextBoxColumn1";
-            this.conexionHoraDataGridViewTextBoxColumn1.ReadOnly = true;
             // 
             // frmBitacora
             // 
@@ -270,6 +186,7 @@ namespace CapaVistaSeguridadHSC
             this.Name = "frmBitacora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "0011 Bitácora";
+            this.Load += new System.EventHandler(this.frmBitacora_Load);
             ((System.ComponentModel.ISupportInitialize)(this.verBitacora)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

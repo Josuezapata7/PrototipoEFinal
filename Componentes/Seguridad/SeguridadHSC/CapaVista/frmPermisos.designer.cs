@@ -378,6 +378,7 @@ namespace CapaVistaSeguridadHSC
             this.Name = "frmPermisos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "0008 Asiganción de Permisos";
+            this.Load += new System.EventHandler(this.frmPermisos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgPermisosUA)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgPermisosPA)).EndInit();
             this.ResumeLayout(false);

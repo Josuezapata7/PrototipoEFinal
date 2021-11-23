@@ -207,6 +207,7 @@ namespace CapaVistaSeguridadHSC
             this.Name = "frmRecuperarContraseña";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "0009 Recuperar Contraseña";
+            this.Load += new System.EventHandler(this.frmRecuperarContraseña_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

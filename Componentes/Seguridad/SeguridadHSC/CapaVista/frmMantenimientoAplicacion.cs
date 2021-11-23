@@ -12,7 +12,6 @@ namespace CapaVistaSeguridadHSC
     public partial class frmMantenimientoAplicacion : Form
     {
         Controlador conAplicacion = new Controlador();
-        Bitacora loggear = new Bitacora();
         public frmMantenimientoAplicacion()
         {
             InitializeComponent();
@@ -65,7 +64,6 @@ namespace CapaVistaSeguridadHSC
             try
             {
                 //Jorge González 0901-18-3920
-                loggear.guardarEnBitacora(IdUsuario, "1", "0003", "Inserción realizada");
                 //
                 conAplicacion.insertarAplicacion(textBox1.Text, textBox6.Text, textBox2.Text, int.Parse(textBox3.Text), textBox4.Text, textBox5.Text);
                 MessageBox.Show("Insercion realizada");
@@ -74,8 +72,6 @@ namespace CapaVistaSeguridadHSC
             }
             catch (Exception ex)
             {
-                //Jorge González 0901-18-3920
-                loggear.guardarEnBitacora(IdUsuario, "1", "0003", "Error al realizar Inserción");
                 //
                 MessageBox.Show("Error: Debes llenar todos los campos"+ex);
             }
@@ -88,8 +84,6 @@ namespace CapaVistaSeguridadHSC
             {
                 textBox4.Text = textBox4.Text.Replace("\\", "\\\\");
                 textBox5.Text = textBox5.Text.Replace("\\", "\\\\");
-                //Jorge González 0901-18-3920
-                loggear.guardarEnBitacora(IdUsuario, "1", "0003", "Modificación Exitosa");
                 //
                 conAplicacion.modificarAplicacion(textBox1.Text, textBox6.Text, textBox2.Text, int.Parse(textBox3.Text), textBox4.Text, textBox5.Text);
                 Console.WriteLine(textBox1.Text + "    " + textBox6.Text + textBox2.Text + int.Parse(textBox3.Text) + textBox4.Text + textBox5.Text + "");
@@ -100,7 +94,6 @@ namespace CapaVistaSeguridadHSC
             catch (Exception ex)
             {
                 //Jorge González 0901-18-3920
-                loggear.guardarEnBitacora(IdUsuario, "1", "0003", "Error al modificar");
                 //
                 MessageBox.Show("Error: " + ex);
             }
@@ -111,7 +104,6 @@ namespace CapaVistaSeguridadHSC
             try
             {
                 //Jorge González 0901-18-3920
-                loggear.guardarEnBitacora(IdUsuario, "1", "0003", "Eliminar");
                 //
                 conAplicacion.eliminarAplicacion(textBox1.Text);
                 MessageBox.Show("Eliminacion realizada");
@@ -226,6 +218,11 @@ namespace CapaVistaSeguridadHSC
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmMantenimientoAplicacion_Load(object sender, EventArgs e)
         {
 
         }

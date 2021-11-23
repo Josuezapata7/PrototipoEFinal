@@ -220,6 +220,7 @@ namespace CapaVistaSeguridadHSC
             this.Name = "frmMantenimientoModulo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "0012 Mantenimiento Módulo";
+            this.Load += new System.EventHandler(this.frmMantenimientoModulo_Load);
             ((System.ComponentModel.ISupportInitialize)(this.perfilTabla)).EndInit();
             this.gbxEstado.ResumeLayout(false);
             this.gbxEstado.PerformLayout();

@@ -162,6 +162,7 @@ namespace CapaVistaSeguridadHSC
             this.Name = "frmRegistrarUsuario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "0002 Registrar Usuario";
+            this.Load += new System.EventHandler(this.frmRegistrarUsuario_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

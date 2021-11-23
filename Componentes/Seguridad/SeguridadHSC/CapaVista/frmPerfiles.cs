@@ -47,9 +47,6 @@ namespace CapaVistaSeguridadHSC
         //Danny Saldaña 0901-18-18686
         private void button1_Click(object sender, EventArgs e)
         {
-            //Jorge González 0901-18-3920
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0007", "Consultar");
             //
             string condicion = textBox1.Text;
             actualizardatagriew();

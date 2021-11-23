@@ -57,9 +57,6 @@ namespace CapaVistaSeguridadHSC
                 {
                     //Jorge González 0901-18-3920
                     // Bitácora
-                    Bitacora loggear = new Bitacora();
-                    IdUsuario = loggear.obtenerIdDeUsuario(Usuario);
-                    loggear.guardarEnBitacora(IdUsuario, "1", "0001", "Inicio de sesión exitoso");
                     DialogResult = DialogResult.OK;
                     // Fin bitácora
 

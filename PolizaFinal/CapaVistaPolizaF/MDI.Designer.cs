@@ -93,7 +93,7 @@ namespace CapaVistaPolizaF
             // cuentasContablesToolStripMenuItem
             // 
             this.cuentasContablesToolStripMenuItem.Name = "cuentasContablesToolStripMenuItem";
-            this.cuentasContablesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cuentasContablesToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
             this.cuentasContablesToolStripMenuItem.Text = "Cuentas Contables";
             this.cuentasContablesToolStripMenuItem.Click += new System.EventHandler(this.cuentasContablesToolStripMenuItem_Click);
             // 
@@ -109,14 +109,14 @@ namespace CapaVistaPolizaF
             // polizaEncabezadoToolStripMenuItem
             // 
             this.polizaEncabezadoToolStripMenuItem.Name = "polizaEncabezadoToolStripMenuItem";
-            this.polizaEncabezadoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.polizaEncabezadoToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
             this.polizaEncabezadoToolStripMenuItem.Text = "Poliza Encabezado";
             this.polizaEncabezadoToolStripMenuItem.Click += new System.EventHandler(this.polizaEncabezadoToolStripMenuItem_Click);
             // 
             // polizaDetlladoToolStripMenuItem
             // 
             this.polizaDetlladoToolStripMenuItem.Name = "polizaDetlladoToolStripMenuItem";
-            this.polizaDetlladoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.polizaDetlladoToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
             this.polizaDetlladoToolStripMenuItem.Text = "Poliza Detallado";
             this.polizaDetlladoToolStripMenuItem.Click += new System.EventHandler(this.polizaDetlladoToolStripMenuItem_Click);
             // 

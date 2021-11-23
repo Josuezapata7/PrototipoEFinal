@@ -48,8 +48,6 @@ namespace CapaVistaSeguridadHSC
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0005", "Consulta");
             string condicion = textBox1.Text;
             actualizardatagriew();
             llenarnombre();
@@ -72,8 +70,6 @@ namespace CapaVistaSeguridadHSC
         private void button3_Click(object sender, EventArgs e)
         {
             textBox3.Text = dtgConsulta.CurrentRow.Cells[0].Value.ToString();
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0005", "Asignar");
             string valor1 = textBox1.Text;
             string valor2 = textBox3.Text;
             cn.agregarappaperf(tabla3, valor1, valor2);
@@ -86,8 +82,6 @@ namespace CapaVistaSeguridadHSC
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0005", "Quitar");
             textBox3.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
             string valor1 = textBox1.Text;
             string valor2 = textBox3.Text;
@@ -106,8 +100,6 @@ namespace CapaVistaSeguridadHSC
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0005", "Quitar todo");
             string valor1 = textBox1.Text;
             cn.perfileliminartodoappaperf(tabla3, valor1);
             actualizardatagriewpersonal();
@@ -138,8 +130,6 @@ namespace CapaVistaSeguridadHSC
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0005", "Limpiar");
             textBox1.Text = "";
             textBox2.Text = "";
             textBox3.Text = "";

@@ -37,10 +37,7 @@ namespace CapaVistaSeguridadHSC
                     txtNuevaContraseña.Text = "";
                     txtConfirmarContraseña.Text = "";
                     //Jorge González 0901-18-3920
-                    // Prueba bitácora
-                    Bitacora loggear = new Bitacora();
-                    loggear.guardarEnBitacora(IdUsuario, "1", "0010", "Confirmar cambio");
-                    // Fin bitácora
+
 
                     this.Hide();
                 }
@@ -51,6 +48,11 @@ namespace CapaVistaSeguridadHSC
                     txtConfirmarContraseña.Text = "";
                 }
             }
+        }
+
+        private void frmCambioContraseña_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

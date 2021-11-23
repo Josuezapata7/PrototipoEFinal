@@ -100,6 +100,7 @@
             this.Name = "frmCambioContraseña";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "0010 Cambiar Contraseña";
+            this.Load += new System.EventHandler(this.frmCambioContraseña_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

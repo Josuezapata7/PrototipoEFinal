@@ -14,9 +14,12 @@ namespace CapaVistaSeguridadHSC
 
         private void btnActualizarBitacora_Click(object sender, EventArgs e)
         {
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0011", "Actualizar Bitácora");
-            verBitacora.actualizarBitacora();
+
+        }
+
+        private void frmBitacora_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

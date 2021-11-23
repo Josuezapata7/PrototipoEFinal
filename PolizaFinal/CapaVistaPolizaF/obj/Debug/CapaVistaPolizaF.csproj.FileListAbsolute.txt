@@ -11,14 +11,11 @@ C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPoliza
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\obj\Debug\CapaVistaPolizaF.csproj.CopyComplete
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaVistaSeguridadHSC.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaControladorSeguridadHSC.dll
-C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\Bitacora.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\VistaBitacoraLogin.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaModeloSeguridadHSC.dll
-C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\Dapper.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaVistaSeguridadHSC.pdb
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaVistaSeguridadHSC.dll.config
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaControladorSeguridadHSC.pdb
-C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\Bitacora.pdb
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\VistaBitacoraLogin.pdb
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaModeloSeguridadHSC.pdb
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaVista.dll
@@ -56,7 +53,11 @@ C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPoliza
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\obj\Debug\CapaVistaPolizaF.PolizaEnc.resources
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\DLLnav.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaControladorNav.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\Bitacora.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaModeloNav.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\DLLnav.pdb
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaControladorNav.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\Bitacora.pdb
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaModeloNav.pdb
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaModeloPolizaF.dll
+C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\PolizaFinal\CapaVistaPolizaF\bin\Debug\CapaModeloPolizaF.pdb

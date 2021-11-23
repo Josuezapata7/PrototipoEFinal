@@ -36,8 +36,6 @@ namespace CapaVistaSeguridadHSC
                     {
                         MessageBox.Show("La contraseña no es igual.");
                         //Jorge González 0901-18-3920
-                        Bitacora loggear = new Bitacora();
-                        loggear.guardarEnBitacora(IdUsuario, "1", "0009", "Fallo al Recuperar Contraseña");
                         //
                         funLimpiar();
                     }
@@ -48,9 +46,6 @@ namespace CapaVistaSeguridadHSC
                         conAplicacion.recuperarContraseña(cbxUsuario.SelectedIndex.ToString(), password);
 
                         MessageBox.Show("Modificación Realizada");
-                        //Jorge González 0901-18-3920
-                        Bitacora loggear = new Bitacora();
-                        loggear.guardarEnBitacora(IdUsuario, "1", "0009", "Recuperar contraseña");
                         //
                         funLimpiar();
                     }
@@ -92,9 +87,6 @@ namespace CapaVistaSeguridadHSC
         //Kevin Flores 9959-18-17632
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            //Jorge González 0901-18-3920
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0009", "Limpiar");
             //
             funLimpiar();
         }
@@ -125,6 +117,11 @@ namespace CapaVistaSeguridadHSC
             txtConfirmacion.UseSystemPasswordChar = true;
             btnConfirmacion.Visible = true;
             btnConfirmacionN.Visible = false;
+        }
+
+        private void frmRecuperarContraseña_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

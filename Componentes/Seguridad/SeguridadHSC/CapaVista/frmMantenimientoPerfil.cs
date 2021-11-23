@@ -80,13 +80,9 @@ namespace CapaVistaSeguridadHSC
             try
             {
                 //Jorge González 0901-18-3920
-                Bitacora loggear = new Bitacora();
-                loggear.guardarEnBitacora(IdUsuario, "1", "0012", "Insertar");
                 //
                 if (textBox1.Text.Trim() != "" && textBox2.Text.Trim() != "")
                 {
-                    //Jorge González 0901-18-3920
-                    loggear.guardarEnBitacora(IdUsuario, "1", "0004", "Inserción realizada");
                     //
                     cn.insertarPerfil(textBox1.Text, textBox2.Text, int.Parse(textBox3.Text));
                     MessageBox.Show("Insercion realizada");
@@ -94,7 +90,6 @@ namespace CapaVistaSeguridadHSC
                 }
                 else
                 {
-                    loggear.guardarEnBitacora(IdUsuario, "1", "0004", "Error al realizar Inserción");
                     MessageBox.Show("Error debe de ingresar todos los valores solicitados ");
                 }
             }
@@ -110,8 +105,6 @@ namespace CapaVistaSeguridadHSC
             if (textBox1.Text.Trim() != "" && textBox2.Text.Trim() != "")
             {
                 //Jorge González 0901-18-3920
-                Bitacora loggear = new Bitacora();
-                loggear.guardarEnBitacora(IdUsuario, "1", "0004", "Modificación Exitosa");
                 //
                 cn.modificarPerfil(textBox1.Text, textBox2.Text, int.Parse(textBox3.Text));
                 MessageBox.Show("Insercion realizada");
@@ -120,8 +113,6 @@ namespace CapaVistaSeguridadHSC
             else
             {
                 //Jorge González 0901-18-3920
-                Bitacora loggear = new Bitacora();
-                loggear.guardarEnBitacora(IdUsuario, "1", "0004", "Error al modificar");
                 //
                 MessageBox.Show("Error debe de ingresar todos los valores solicitados ");
             }
@@ -130,9 +121,6 @@ namespace CapaVistaSeguridadHSC
         //Ivania Gatica 0901-18-19528
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            //Jorge González 0901-18-3920
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0004", "Eliminar");
             //
             cn.eliminarPerfil(textBox1.Text);
             MessageBox.Show("Eliminacion realizada");

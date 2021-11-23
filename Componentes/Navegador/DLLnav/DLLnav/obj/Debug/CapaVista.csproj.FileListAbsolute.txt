@@ -11,7 +11,6 @@ C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLna
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\VistaBitacoraLogin.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
-C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\Dapper.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\CapaModeloNav.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\CapaModeloSeguridadHSC.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\CapaControlador.dll

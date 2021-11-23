@@ -7,7 +7,6 @@ C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\Segur
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Zstandard.Net.dll
-C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.dll
 C:\Users\Langas\Documents\ProyectosGit\FinalAnalisis\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Hash.xxHash.dll

@@ -46,13 +46,11 @@ namespace CapaVistaSeguridadHSC
             try
             {
                 //Jorge González 0901-18-3920
-                Bitacora loggear = new Bitacora();
                // loggear.guardarEnBitacora(IdUsuario, "1", "0012", "Insertar");
 
                 if (textBox1.Text.Trim() != "" && textBox2.Text.Trim() != "" && textBox4.Text.Trim() != "")
                 {
                     //Jorge González 0901-18-3920
-                    loggear.guardarEnBitacora(IdUsuario, "1", "0012", "Inserción realizada");
                     //
                     cn.metodoInsertar(textBox1.Text, textBox2.Text, textBox4.Text, int.Parse(textBox3.Text));
                     MessageBox.Show("Insercion realizada");
@@ -61,7 +59,6 @@ namespace CapaVistaSeguridadHSC
                 else
                 {
                     //Jorge González 0901-18-3920
-                    loggear.guardarEnBitacora(IdUsuario, "1", "0012", "Error al realizar Inserción");
                     //
                     MessageBox.Show("404 Error debe de ingresar todos los valores solicitados ");
                 }
@@ -77,9 +74,6 @@ namespace CapaVistaSeguridadHSC
         {
             if (textBox1.Text.Trim() != "" && textBox2.Text.Trim() != "" && textBox4.Text.Trim() != "")
             {
-                //Jorge González 0901-18-3920
-                Bitacora loggear = new Bitacora();
-                loggear.guardarEnBitacora(IdUsuario, "1", "0012", "Modificación Exitosa");
                 //
                 cn.modificarModificar(textBox1.Text, textBox2.Text, textBox4.Text, int.Parse(textBox3.Text));
                 MessageBox.Show("Insercion realizada");
@@ -87,9 +81,6 @@ namespace CapaVistaSeguridadHSC
             }
             else
             {
-                //Jorge González 0901-18-3920
-                Bitacora loggear = new Bitacora();
-                loggear.guardarEnBitacora(IdUsuario, "1", "0012", "Error al modificar");
                 //
                 MessageBox.Show("Error debe de ingresar todos los valores solicitados ");
             }
@@ -99,8 +90,6 @@ namespace CapaVistaSeguridadHSC
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             //Jorge González 0901-18-3920
-            Bitacora loggear = new Bitacora();
-            loggear.guardarEnBitacora(IdUsuario, "1", "0012", "Eliminar");
             //
             cn.metodoEliminar(textBox1.Text);
             MessageBox.Show("Eliminacion realizada");
@@ -146,6 +135,11 @@ namespace CapaVistaSeguridadHSC
             catch
             {
             }
+
+        }
+
+        private void frmMantenimientoModulo_Load(object sender, EventArgs e)
+        {
 
         }
     }
